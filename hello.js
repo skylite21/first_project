@@ -6,4 +6,4 @@ console.log("hello remote");
 console.log("hello remote again");
 // important code
 // some code
-/sdf/sd/fsdf/
+/sdf/sd/;
